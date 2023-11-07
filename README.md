@@ -1,4 +1,7 @@
 # conflict_training
+fghfghfghgfh
+cvbcvb
+cv
 25000
 45000
 67000
